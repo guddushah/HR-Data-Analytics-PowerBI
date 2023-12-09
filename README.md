@@ -4,11 +4,10 @@
 AtliQ Technologies is a fast growing software and data solution company in India, the HR of the company wants to know the working preferences of employees from the employees presence data. Consuming huge Excel data was not easy and the HR found difficulty in taking some critical decisions which are dependent on the employees presence onsite. So, the HR along with other stakeholders decided to hire a data analyst and develop a dashboard in Power BI for their quick decision making regarding their business needs.
 
 ### Requirements from the Stakeholders
-- What is the working preferences of employees; work from home or work from office?
-- What is the reason behind work from home?
-- Which day in a week are employees present the most?
-- How can we optimize the woking space in the office and save cost on infrastructure?
-- What are the reasons behind majority of people taking sick leaves?
+1. What is the working preferences of employees; work from home or work from office?
+2. What is the reason behind work from home?
+3. Which day in a week are employees present the most?
+4. Which days in a week employees prefer WFH the most?
 
 ### Attendance Key	
 - **P**	- Present 
@@ -63,12 +62,11 @@ https://app.powerbi.com/view?r=eyJrIjoiZmY0Nzc3NWYtMjM4Zi00ODliLTk0ZmQtNDgzYzBmM
 ## Key Insights Obtained from the Dashboard
 1. On average, Employees work 10 % of the total working days from home, for example, out of 100 working days people prefer 10 days work from home.
 2. The reason behind 10 % WFH, is some people only work from home and some of them ends of working half of the time from home.
-3. Employees are mostly present on Monday of a week, so it could be beneficial for the company if there is any software release work.
-
-4. The Employees presence is slowly declining every month.
-5. WFH is slightly increasing every month.
-6. Employees taking sick leaves are increasing every month.
-7. Friday is the day in a week when mostly employees prefer WFH.
+3. Employees are mostly present on Monday of a week.
+4. Thursday and Friday are the days in a week when mostly employees prefer WFH.
+5. The Employees presence is slowly declining every month.
+6. WFH is slightly increasing every month.
+7. Employees taking sick leaves are increasing every month.
 8. On average, employees are taking most of sick leaves on Monday.
 
    
