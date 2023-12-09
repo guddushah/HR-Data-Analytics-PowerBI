@@ -9,3 +9,6 @@ AtliQ Technologies is a fast growing software and data solution company in India
 - Which day in a week are employees present the most?
 - How can we optimize the woking space in the office and save cost on infrastructure?
 - What are the reasons behind majority of people taking sick leaves?
+
+### Dataset
+Attendance Sheet 2022-2023_Masked
