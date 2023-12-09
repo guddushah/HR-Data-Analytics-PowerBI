@@ -61,8 +61,17 @@ Attendance Sheet 2022-2023_Masked
 https://app.powerbi.com/view?r=eyJrIjoiZmY0Nzc3NWYtMjM4Zi00ODliLTk0ZmQtNDgzYzBmMWJlYjcwIiwidCI6Ijc5OWU3OTRjLTllYWMtNGUxZi05ZjY0LTE0ODhjYjMyMjRlNiJ9
 
 ## Key Insights Obtained from the Dashboard
-1. 
+1. On average, Employees work 10 % of the total working days from home, for example, out of 100 working days people prefer 10 days work from home.
+2. The reason behind 10 % WFH, is some people only work from home and some of them ends of working half of the time from home.
+3. Employees are mostly present on Monday of a week, so it could be beneficial for the company if there is any software release work.
 
+4. The Employees presence is slowly declining every month.
+5. WFH is slightly increasing every month.
+6. Employees taking sick leaves are increasing every month.
+7. Friday is the day in a week when mostly employees prefer WFH.
+8. On average, employees are taking most of sick leaves on Monday.
+
+   
 ### Creating Measures using DAX
 1. **Total Working Days**      
 - Total Working Days =       
