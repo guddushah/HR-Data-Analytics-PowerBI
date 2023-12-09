@@ -39,7 +39,8 @@ Attendance Sheet 2022-2023_Masked
 - Performed data transformation and unpivoted all the date columns into single column in April 2022 sheet.
 - Created New Parameter using the current sheet for filtering rows.
 - Created a function that encapsulates all the data transformation steps performed above.
-- Added the newly created function as a calculated column scross all the sheets.
-- all the three sheets into one table by using concept of transpose
+- Added the newly created function as a calculated column across all 3 sheets.
+- Then deleted some columns which were not important, final sheet had 5 columns (Sheet Name, Employee Code, Name, Date, Value).
+- The final sheet was the sheet combining all the 3 sheets - April 2022, May 2022, June 2022
 
 
