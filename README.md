@@ -41,7 +41,12 @@ Attendance Sheet 2022-2023_Masked
 - Created a function that encapsulates all the data transformation steps performed above.
 - Added the newly created function as a calculated column across all 3 sheets.
 - Then deleted some columns which were not important, final sheet had 5 columns (Sheet Name, Employee Code, Name, Date, Value).
-- The final sheet was the sheet combining all the 3 sheets - April 2022, May 2022, June 2022
+- The final sheet is the table combining all the 3 sheets - April 2022, May 2022, June 2022
+
+- **Created Calculated Columns in the table**
+  - WFH Count = SWITCH(TRUE(),      
+  'Final Data'[Value] = "WFH",1,      
+  'Final Data'[Value] = "HWFH",0.5,0)      
 
 ### Creating Measures using DAX
 1. **Total Working Days**      
