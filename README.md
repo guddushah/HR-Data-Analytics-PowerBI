@@ -44,6 +44,12 @@ Attendance Sheet 2022-2023_Masked
 - The final sheet was the sheet combining all the 3 sheets - April 2022, May 2022, June 2022
 
 ### Creating Measures using DAX
+1. **Total Working Days**      
+- Total Working Days =       
+  Var totaldays = COUNT('Final Data'[Value])     
+  Var normworkdays = CALCULATE(COUNT('Final Data'[Value]),'Final Data'[Value] in {"WO", "HO"})      
+  return       
+  totaldays-normworkdays     
 
 
 
