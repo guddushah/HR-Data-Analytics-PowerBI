@@ -11,27 +11,28 @@ AtliQ Technologies is a fast growing software and data solution company in India
 - What are the reasons behind majority of people taking sick leaves?
 
 ### Attendance Key	
-- **P**	Present 
-- **PL** Paid Leave 
-- **SL**	Sick Leave 
-- **HPL**	Half day PL 
-- **HSL**	Half day SL
-- **WFH**	Work from home 
-- **FFL**	Floting festival leave 
-- **HFFL**	Half Day Floting festival leave 
-- **BL** 	Birthday Leave 
-- **LWP**	Leave without pay
-- **HLWP**	Half day Leave without pay
-- **BRL** 	Bereavement Leave
-- **HBRL** 	Half Bereavement Leave
-- **HWFH**	Half Work From Home
-- **WO**	Weekly Off
+- **P**	- Present 
+- **PL** - Paid Leave 
+- **SL**	- Sick Leave 
+- **HPL**	- Half day PL 
+- **HSL**	- Half day SL
+- **WFH**	- Work from home 
+- **FFL**	- Floting festival leave 
+- **HFFL**	- Half Day Floting festival leave 
+- **BL** 	- Birthday Leave 
+- **LWP**	- Leave without pay
+- **HLWP** - Half day Leave without pay
+- **BRL** - Bereavement Leave
+- **HBRL** - Half Bereavement Leave
+- **HWFH**	- Half Work From Home
+- **WO**	- Weekly Off
 - **HO**	Holiday Off
 - **ML**	Menstrual Leave
 - **HML**	Half Day ML
 
 ### Dataset
-Attendance Sheet 2022-2023_Masked
+Attendance Sheet 2022-2023_Masked 
+- Contains 3 attendance sheets - April 2022, May 2023, June 2022 
 
 ### Data Transformation
 
