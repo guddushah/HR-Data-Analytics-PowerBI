@@ -1,4 +1,4 @@
-# HR Data Analytics
+# Employees Presence Insight
 
 ## Problem Statement
 AtliQ Technologies is a fast growing software and data solution company in India, the HR of the company wants to know the working preferences of employees from the employees presence data. Consuming huge Excel data was not easy and the HR found difficulty in taking some critical decisions which are dependent on the employees presence onsite. So, the HR along with other stakeholders decided to hire a data analyst and develop a dashboard in Power BI for their quick decision making regarding their business needs.
@@ -33,6 +33,12 @@ AtliQ Technologies is a fast growing software and data solution company in India
 ### Dataset
 Attendance Sheet 2022-2023_Masked 
 - Contains 3 attendance sheets - April 2022, May 2023, June 2022 
+
+### Created Dashboard
+![emp](https://github.com/guddushah/HR-Data-Analytics-PowerBI/assets/40028193/1f2de66f-3a2b-4a01-a47a-fceaad8ac8b6)
+
+### Dashboard Live here
+
 
 ### Data Transformation in Power Query
 - Imported all the sheets in the Power Query.
