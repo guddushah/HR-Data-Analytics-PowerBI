@@ -26,9 +26,9 @@ AtliQ Technologies is a fast growing software and data solution company in India
 - **HBRL** - Half Bereavement Leave
 - **HWFH**	- Half Work From Home
 - **WO**	- Weekly Off
-- **HO**	Holiday Off
-- **ML**	Menstrual Leave
-- **HML**	Half Day ML
+- **HO**	- Holiday Off
+- **ML**	- Menstrual Leave
+- **HML**	- Half Day ML
 
 ### Dataset
 Attendance Sheet 2022-2023_Masked 
