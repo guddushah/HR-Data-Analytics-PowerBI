@@ -34,5 +34,12 @@ AtliQ Technologies is a fast growing software and data solution company in India
 Attendance Sheet 2022-2023_Masked 
 - Contains 3 attendance sheets - April 2022, May 2023, June 2022 
 
-### Data Transformation
+### Data Transformation in Power Query
+- Imported all the sheets in the Power Query.
+- Performed data transformation and unpivoted all the date columns into single column in April 2022 sheet.
+- Created New Parameter using the current sheet for filtering rows.
+- Created a function that encapsulates all the data transformation steps performed above.
+- Added the newly created function as a calculated column scross all the sheets.
+- all the three sheets into one table by using concept of transpose
+
 
