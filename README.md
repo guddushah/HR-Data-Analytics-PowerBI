@@ -43,4 +43,7 @@ Attendance Sheet 2022-2023_Masked
 - Then deleted some columns which were not important, final sheet had 5 columns (Sheet Name, Employee Code, Name, Date, Value).
 - The final sheet was the sheet combining all the 3 sheets - April 2022, May 2022, June 2022
 
+### Creating Measures using DAX
+
+
 
