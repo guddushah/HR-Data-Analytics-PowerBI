@@ -58,7 +58,10 @@ Attendance Sheet 2022-2023_Masked
 ![employee](https://github.com/guddushah/HR-Data-Analytics-PowerBI/assets/40028193/cacae0aa-6789-4f11-9f94-cd5cd4b0d863)
 
 ### Dashboard Live here
-https://app.powerbi.com/view?r=eyJrIjoiYmU2MTM3YjUtZTg3Mi00Yjk4LWI0MTUtNjQxYTA2NTBjMmJiIiwidCI6Ijc5OWU3OTRjLTllYWMtNGUxZi05ZjY0LTE0ODhjYjMyMjRlNiJ9
+https://app.powerbi.com/view?r=eyJrIjoiZmY0Nzc3NWYtMjM4Zi00ODliLTk0ZmQtNDgzYzBmMWJlYjcwIiwidCI6Ijc5OWU3OTRjLTllYWMtNGUxZi05ZjY0LTE0ODhjYjMyMjRlNiJ9
+
+### Key Insights Obtained from the Dashboard
+
 
 ### Creating Measures using DAX
 1. **Total Working Days**      
