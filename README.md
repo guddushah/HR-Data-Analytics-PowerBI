@@ -83,3 +83,8 @@ https://app.powerbi.com/view?r=eyJrIjoiYmU2MTM3YjUtZTg3Mi00Yjk4LWI0MTUtNjQxYTA2N
 5. **WFH %**             
    WFH % = DIVIDE([WFH],[Present Days],0)
 
+6. **SL**      
+   SL = SUM('Final Data'[SL Count])
+
+7. **SL %**        
+   SL % = DIVIDE([SL],[Present Days],0)    
