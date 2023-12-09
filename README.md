@@ -48,9 +48,9 @@ Attendance Sheet 2022-2023_Masked
   'Final Data'[Value] = "WFH",1,      
   'Final Data'[Value] = "HWFH",0.5,0)
 
-  - SL Count = SWITCH(TRUE(),
-  'Final Data'[Value] = "SL",1,
-  'Final Data'[Value] = "HSL",0.5,0)
+  - SL Count = SWITCH(TRUE(),        
+  'Final Data'[Value] = "SL",1,        
+  'Final Data'[Value] = "HSL",0.5,0)        
 
 ### Creating Measures using DAX
 1. **Total Working Days**      
@@ -58,7 +58,17 @@ Attendance Sheet 2022-2023_Masked
   Var totaldays = COUNT('Final Data'[Value])     
   Var normworkdays = CALCULATE(COUNT('Final Data'[Value]),'Final Data'[Value] in {"WO", "HO"})      
   return       
-  totaldays-normworkdays     
+  totaldays-normworkdays
 
+2. **WFH**
+   WFH = SUM('Final Data'[WFH Count])
+   
+2. **Present Days**
+   Present Days= 
+   Var presentdays = CALCULATE(COUNT('Final Data'[Value]),'Final Data'[Value] in {"P"})
+   RETURN 
+   presentdays + [WFH]
 
+4. **Presence %**
+   Presence % = DIVIDE([Present Days],[Total Working Days],0)
 
