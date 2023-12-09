@@ -72,5 +72,8 @@ Attendance Sheet 2022-2023_Masked
    presentdays + [WFH]                 
 
 4. **Presence %**               
-   Presence % = DIVIDE([Present Days],[Total Working Days],0)                
+   Presence % = DIVIDE([Present Days],[Total Working Days],0)
+
+5. **WFH %**             
+   WFH % = DIVIDE([WFH],[Present Days],0)
 
