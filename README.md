@@ -61,7 +61,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZmY0Nzc3NWYtMjM4Zi00ODliLTk0ZmQtNDgzYzBmM
 
 ## Key Insights Obtained from the Dashboard
 1. On average, Employees work 10 % of the total working days from home, for example, out of 100 working days people prefer 10 days work from home.
-2. The reason behind 10 % WFH, is some people only work from home and some of them ends of working half of the time from home.
+2. The reason behind 10 % WFH, is some people only work from home (never come to office) and some of them ends of working half of the time from home.
 3. Employees are mostly present on Monday of a week.
 4. Thursday and Friday are the days in a week when mostly employees prefer WFH.
 5. The Employees presence is slowly declining every month.
