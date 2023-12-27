@@ -54,10 +54,10 @@ Attendance Sheet 2022-2023_Masked
   - Month = STARTOFMONTH('Final Data'[Date])     
 
 ### Created Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiNTNjMzczYzYtMDVlZC00MWQzLWIxZjEtNTkyYTRhZjZiMjU2IiwidCI6IjdlNTIyZTlmLTE0MTAtNDI2My1iOTM2LTkxNTJhNTkyNTY3MSJ9
+![hrdash](https://github.com/guddushah/HR-Data-Analytics-PowerBI/assets/40028193/cfceab0b-ccde-4928-af7b-598a81e49aa9)
 
 ### Dashboard Live here
-https://app.powerbi.com/view?r=eyJrIjoiZmY0Nzc3NWYtMjM4Zi00ODliLTk0ZmQtNDgzYzBmMWJlYjcwIiwidCI6Ijc5OWU3OTRjLTllYWMtNGUxZi05ZjY0LTE0ODhjYjMyMjRlNiJ9
+https://app.powerbi.com/view?r=eyJrIjoiNTNjMzczYzYtMDVlZC00MWQzLWIxZjEtNTkyYTRhZjZiMjU2IiwidCI6IjdlNTIyZTlmLTE0MTAtNDI2My1iOTM2LTkxNTJhNTkyNTY3MSJ9
 
 ## Key Insights Obtained from the Dashboard
 1. On average, Employees work 10 % of the total working days from home, for example, out of 100 working days people prefer 10 days work from home.
