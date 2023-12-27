@@ -54,7 +54,7 @@ Attendance Sheet 2022-2023_Masked
   - Month = STARTOFMONTH('Final Data'[Date])     
 
 ### Created Dashboard
-![employee](https://github.com/guddushah/HR-Data-Analytics-PowerBI/assets/40028193/cacae0aa-6789-4f11-9f94-cd5cd4b0d863)
+https://app.powerbi.com/view?r=eyJrIjoiNTNjMzczYzYtMDVlZC00MWQzLWIxZjEtNTkyYTRhZjZiMjU2IiwidCI6IjdlNTIyZTlmLTE0MTAtNDI2My1iOTM2LTkxNTJhNTkyNTY3MSJ9
 
 ### Dashboard Live here
 https://app.powerbi.com/view?r=eyJrIjoiZmY0Nzc3NWYtMjM4Zi00ODliLTk0ZmQtNDgzYzBmMWJlYjcwIiwidCI6Ijc5OWU3OTRjLTllYWMtNGUxZi05ZjY0LTE0ODhjYjMyMjRlNiJ9
